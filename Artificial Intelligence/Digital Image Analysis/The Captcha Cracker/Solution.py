@@ -1,3 +1,7 @@
+"""
+@author: zepman85
+"""
+
 import sys
 
 def segCaptchaImg(captchaBGRImg):

@@ -5,6 +5,7 @@
 </p>
 
 * [30 Days of Code](#30-days-of-code)
+* [Artificial Intelligence](#artificial-intelligence)
 
 
 # 30 Days of Code
@@ -22,3 +23,9 @@
 |  8  | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)                 |   30   | [Solution.py](https://github.com/zepman85/myHackerRankSolutions/blob/master/30%20Days%20of%20Code/Day%2008%20-%20Dictionaries%20and%20Maps/Solution.py)              |
 |  9  | [Recursion](https://www.hackerrank.com/challenges/30-recursion)                                         |   30   | [Solution.py](https://github.com/zepman85/myHackerRankSolutions/blob/master/30%20Days%20of%20Code/Day%2009%20-%20Recursion%203/Solution.py)                              |
 |  10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)                               |   30   | [Solution.py](https://github.com/zepman85/myHackerRankSolutions/blob/master/30%20Days%20of%20Code/Day%2010%20-%20Binary%20Numbers/Solution.py)                       |
+
+# Artificial Intelligence
+
+|        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Digital Image Analysis  | [The Captcha Cracker](https://www.hackerrank.com/challenges/the-captcha-cracker/)                                                   |   100  | [Solution.py](https://github.com/zepman85/myHackerRankSolutions/blob/master/Artificial%20Intelligence/Digital%20Image%20Analysis/The%20Captcha%20Cracker/Solution.py)     |
